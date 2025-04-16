@@ -1,0 +1,44 @@
+
+🧱 Project Architecture / Setup Prompts (3)
+"How should I organize a combined Spring Boot and React project for scalable data ingestion workflows?"
+
+"What’s the recommended API endpoint structure for enabling two-way ingestion (ClickHouse ⇄ Flat File)?"
+
+"How to establish environment-specific configuration for ClickHouse and file paths in both frontend and backend?"
+
+💻 Frontend Prompts (5)
+"How do I create a dynamic form in React to collect ClickHouse connection parameters with validation support?"
+
+"How can I implement CSV file upload in React and preview the first 100 rows in a responsive table?"
+
+"What is the best way to create a reusable column selection component using checkboxes in React?"
+
+"How can I add a live progress bar in React to show ingestion progress or current status?"
+
+"How to conditionally render UI elements (like buttons and loaders) based on the backend status in a React app?"
+
+🔧 Backend Prompts (5)
+"How do I build a RESTful Spring Boot API to handle bidirectional data flow between ClickHouse and flat files?"
+
+"What’s the best way to fetch and return sample records (e.g., 100 rows) from ClickHouse or a CSV file in Spring Boot?"
+
+"How to implement background processing and track ingestion job status in Spring Boot using async tasks or schedulers?"
+
+"How can I dynamically build SQL queries to join multiple ClickHouse tables based on user-selected join conditions?"
+
+"How to implement JWT-based authentication for secure ClickHouse connections in Spring Boot?"
+
+📦 Dependency Configuration Prompts (3)
+"How do I add and configure the ClickHouse JDBC driver in a Spring Boot Maven project?"
+
+"What are the essential dependencies for handling file uploads and CSV parsing in Spring Boot?"
+
+"Which React libraries simplify file uploads, progress indicators, and data preview components?"
+
+🧱 Project Architecture / Setup Prompts (3)
+"How should I organize a combined Spring Boot and React project for scalable data ingestion workflows?"
+
+"What’s the recommended API endpoint structure for enabling two-way ingestion (ClickHouse ⇄ Flat File)?"
+
+"How to establish environment-specific configuration for ClickHouse and file paths in both frontend and backend?"
+
